@@ -1,0 +1,2 @@
+# Hotel-Management-System
+A Java based desktop application that allows you to log in as an admin or receptionist. As an admin, you can create and manage rooms, employees and drivers. As a receptionist, you can add new clients, access room information, all employee information, client information, manager information, manage client pickup service, search for avalaible rooms, update room status and check out clients.
